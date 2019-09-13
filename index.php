@@ -6,9 +6,9 @@
 </head>
 <body>
 <?php
-    print"bienvenidos al curso de php <br>";
-    print"Alumnos<br>";
-    print"hasta el proximo video";
+    //variables 
+    $nombre="Eddas";
+    $edad=26;
 ?>
 </body>
 </html>
