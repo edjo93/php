@@ -6,21 +6,12 @@
 </head>
 <body>
 
-<?php
-    
 
-    function ambito(){
-        echo"segundo mensaje<br>";
-    }
-    
-
-    
-?>
 
 <?php
     echo "primer mensaje <br>";
 
-    
+    include("funciones.php");
     ambito();
     echo"tercer mensaje<br>";
 
