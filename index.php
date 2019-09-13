@@ -11,11 +11,11 @@
 <?php
     echo "primer mensaje <br>";
 
-    include("funciones.php");
-    ambito();
+    include("funcioness.php");
+    
     echo"tercer mensaje<br>";
 
-    
+    ambito();
 ?>
 </body>
 </html>
