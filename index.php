@@ -6,11 +6,15 @@
 </head>
 <body>
 <?php
-    //variables 
-    $nombre="Eddas";
-    $edad=26;
+    echo "primer mensaje <br>";
+
+    function ambito(){
+        echo"segundo msj<br>";
+    }
+
+    echo"tercer mensaje<br>";
+
     
-    echo "el nombre es ",$nombre;
 ?>
 </body>
 </html>
