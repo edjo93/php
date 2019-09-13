@@ -9,9 +9,9 @@
     echo "primer mensaje <br>";
 
     function ambito(){
-        echo"segundo msj<br>";
+        echo"segundo mensaje<br>";
     }
-
+    ambito();
     echo"tercer mensaje<br>";
 
     
