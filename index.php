@@ -5,12 +5,22 @@
     <title>no title</title>
 </head>
 <body>
+
 <?php
-    echo "primer mensaje <br>";
+    
 
     function ambito(){
         echo"segundo mensaje<br>";
     }
+    
+
+    
+?>
+
+<?php
+    echo "primer mensaje <br>";
+
+    
     ambito();
     echo"tercer mensaje<br>";
 
