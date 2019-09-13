@@ -6,7 +6,9 @@
 </head>
 <body>
 <?php
-    //index se ejecuta automaticamente - como un main
+    print"bienvenidos al curso de php <br>";
+    print"Alumnos<br>";
+    print"hasta el proximo video";
 ?>
 </body>
 </html>
