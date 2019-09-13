@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-    
+    //index se ejecuta automaticamente - como un main
 ?>
 </body>
 </html>
