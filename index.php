@@ -11,7 +11,7 @@
 <?php
     echo "primer mensaje <br>";
 
-    include("funcioness.php");
+    require("funcioness.php");
     
     echo"tercer mensaje<br>";
 
