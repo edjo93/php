@@ -9,6 +9,9 @@
     //variables 
     $nombre="Eddas";
     $edad=26;
+    print"el nombre de usuario es $nombre";
+    print"<br>";
+    print"edad: " . $edad;
 ?>
 </body>
 </html>
